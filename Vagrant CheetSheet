@@ -1,0 +1,12 @@
+Vagrant Cheatsheet
+------------------
+Author : ReconBug
+
+Version : 0.1     Date : 25/12/2017
+
+Vagrant is a powerful tool for setting up lab environments. In todays world it
+is necessary to setup environments swiftly and vagrant helps us to do it
+precisely.
+
+Requirements
+~~~~~~~~~~~~
